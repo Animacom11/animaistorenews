@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/old-page",     // URL path you want to redirect from
-      "destination": "/new-page", // URL path you want to redirect to
+      "source": "/abcd",     // URL path you want to redirect from
+      "destination": "https://animaistore.com/police-officer-pulls-over-to-have-an-adorable-conversation-with-baby-owl/", // URL path you want to redirect to
       "permanent": true          // Use "true" for 301, "false" for 302
     },
     {
